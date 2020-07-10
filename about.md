@@ -3,13 +3,12 @@ layout: page
 title: About
 permalink: /about/
 ---
+### Ankit Bajaj
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Ankit grew up in [Bhopal, India](https://en.wikipedia.org/wiki/Bhopal). 
+Interested in technology, public policy, and entrepreneurship, Ankit regularly writes blogs to share his thoughts. 
+When not busy with his usual business, he likes to read books on kindle, take road trips, or enjoy a hike!     
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[Twitter](twitter.com/ankittkbajaj)
