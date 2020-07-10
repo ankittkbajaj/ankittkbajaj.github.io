@@ -11,4 +11,4 @@ When not busy with his usual business, he likes to read books on kindle, take ro
 
 ### Contact me
 
-[Twitter](twitter.com/ankittkbajaj)
+[Twitter](https://twitter.com/ankittkbajaj)
